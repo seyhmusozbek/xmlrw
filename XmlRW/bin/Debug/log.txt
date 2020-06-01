@@ -1,0 +1,60 @@
+25.11.2019 12:17:29 An error occurred while updating the entries. See the inner exception for details.
+--------------------------
+25.11.2019 12:17:34 An error occurred while updating the entries. See the inner exception for details.
+--------------------------
+25.11.2019 15:03:25 361230290 artikel numarasına kayıtlı stok kodu bulunamadı.
+--------------------------
+25.11.2019 16:06:41 4 Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+25.11.2019 17:20:46 361230290 artikel numarasına kayıtlı stok kodu bulunamadı.
+--------------------------
+25.11.2019 17:27:29 Rows collection cannot be programmatically cleared when the DataGridView control is data-bound to anything else than an IBindingList that supports change notification and allows deletion.
+--------------------------
+25.11.2019 17:28:27 4 Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+26.11.2019 10:33:45 4 Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+26.11.2019 10:36:45 4 Adet Kayıttan 0 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+26.11.2019 11:38:21  Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+26.11.2019 13:51:58  Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+26.11.2019 14:22:36 48011971 artikel numarasına kayıtlı stok kodu bulunamadı.
+--------------------------
+26.11.2019 14:27:19 0 Adet Kayıttan 4 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+26.11.2019 14:38:52 0 Adet Kayıttan 4 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+26.11.2019 14:51:12 48011971 artikel numarasına kayıtlı stok kodu bulunamadı.
+--------------------------
+26.11.2019 14:58:08  Adet Kayıttan 4 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+26.11.2019 15:04:55 0 Adet Kayıttan 4 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+26.11.2019 15:18:54 48011971 artikel numarasına kayıtlı stok kodu bulunamadı.
+--------------------------
+26.11.2019 15:25:20 11 Adet Kayıttan 7 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+26.11.2019 17:43:21 4 Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+27.11.2019 09:00:59 4 Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+27.11.2019 10:26:42 4 Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+27.11.2019 11:49:51 4 Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+27.11.2019 12:00:40 4 Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+27.11.2019 12:04:02 4 Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+27.11.2019 12:15:21 4 Adet Kayıttan 3 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------
+28.11.2019 14:41:38 aaaaa artikel numarasına kayıtlı stok kodu bulunamadı.
+--------------------------
+28.11.2019 14:41:42 bbbbb artikel numarasına kayıtlı stok kodu bulunamadı.
+--------------------------
+05.12.2019 16:34:10 Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+--------------------------
+05.05.2020 15:51:17 1 Adet Kayıttan 1 Adet Kayıt Başarıyla İptal Edildi.
+--------------------------

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<orderlist>
+<order brand_id="LM" commercial_id="204546" customer_ref="610932:LUMINA ROBERTO" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-19 00:00:00.0" legal_id="202839" number="80104959" order_type="OC" store_id="041" unique_orderid="1794974">
+<notes><![CDATA[90 giorni fine mese il 10 N° CC 610932 NOME CLIENTE : LUMINA ]]></notes>
+<row buyer_ref="36130325" description="F1ANTA 60X60 V 70 GOLDEN OAK ***QTà CC : 1.000" price="47.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132793"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="200166:NASTRO ANTONELLA" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="80046137" order_type="OC" store_id="054" unique_orderid="1800850">
+<notes><![CDATA[90 giorni fine mese il 10 N° CC 200166 NOME CLIENTE : NASTRO ]]></notes>
+<row buyer_ref="36130395" description="PTA F1A 80X220 DX 70 B.CA ***QTà CC : 1.000" price="132.0" quantity="1.00" supplyer_ref="" unique_rowid="8032943132731"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="310061:PAVONA BRUNO" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="80102470" order_type="OC" store_id="052" unique_orderid="1800849">
+<notes><![CDATA[90 giorni fine mese il 10 N° CC 310061 NOME CLIENTE : PAVONA ]]></notes>
+<row buyer_ref="36130395" description="PTA F1A 80X220 DX 70 B.CA ***QTà CC : 2.000" price="132.0" quantity="2.00" supplyer_ref="" unique_rowid="8032943132731"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="310061:PAVONA BRUNO" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="80102471" order_type="OC" store_id="052" unique_orderid="1800848">
+<notes><![CDATA[90 giorni fine mese il 10 N° CC 310061 NOME CLIENTE : PAVONA ]]></notes>
+<row buyer_ref="36130703" description="PTA F1A 80X220 SX 70 B.CA ***QTà CC : 2.000" price="132.0" quantity="2.00" supplyer_ref="" unique_rowid="8032943132748"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="092978:CATALOGNA LUIGI" delivery_date_from="20191216" delivery_date_to="20191216" delivery_store_id="436" department_id="02" issue_date="2019-11-21 00:00:00.0" legal_id="202839" number="80084219" order_type="OC" store_id="027" unique_orderid="1805313">
+<notes><![CDATA[90 giorni fine mese il 10 N° CC 092978 NOME CLIENTE : CATALOGNA ]]></notes>
+<row buyer_ref="36130710" description="*PTA F2A 100X220 70 B.CA ***QTà CC : 5.000" price="188.4" quantity="5.00" supplyer_ref="" unique_rowid="8032943132755"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="092978:CATALOGNA LUIGI" delivery_date_from="20191216" delivery_date_to="20191216" delivery_store_id="436" department_id="02" issue_date="2019-11-21 00:00:00.0" legal_id="202839" number="80084220" order_type="OC" store_id="027" unique_orderid="1805312">
+<notes><![CDATA[90 giorni fine mese il 10 N° CC 092978 NOME CLIENTE : CATALOGNA ]]></notes>
+<row buyer_ref="36130745" description="*F1ANTA 60X60 V 70 B.CA ***QTà CC : 3.000" price="39.12" quantity="3.00" supplyer_ref="" unique_rowid="8032943132564"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57992309" order_type="LS" store_id="034" unique_orderid="1799260">
+<notes/>
+<row buyer_ref="36130381" description="*F1ANTA 80X60 V 70 B.CA" price="48.72" quantity="4.00" supplyer_ref="" unique_rowid="8032943132588"/>
+<row buyer_ref="36130290" description="*F1ANTA 80X120 SX 70 B.CA" price="82.08" quantity="5.00" supplyer_ref="" unique_rowid="8032943132656"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="3.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130710" description="*PTA F2A 100X220 70 B.CA" price="188.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132755"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57991815" order_type="LS" store_id="025" unique_orderid="1799244">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="4.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130353" description="*F1ANTA 80X50 V 70 B.CA" price="44.68" quantity="3.00" supplyer_ref="" unique_rowid="8032943132571"/>
+<row buyer_ref="36130416" description="F1ANTA 60X120 DX 70 B.CA" price="67.2" quantity="5.00" supplyer_ref="" unique_rowid="8032943132625"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57991101" order_type="LS" store_id="009" unique_orderid="1799238">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="6.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130353" description="*F1ANTA 80X50 V 70 B.CA" price="44.68" quantity="1.00" supplyer_ref="" unique_rowid="8032943132571"/>
+<row buyer_ref="36146852" description="*F1ANTA 90X60 V 70 B.CA" price="52.8" quantity="5.00" supplyer_ref="" unique_rowid="8032943132595"/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="2.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130416" description="F1ANTA 60X120 DX 70 B.CA" price="67.2" quantity="2.00" supplyer_ref="" unique_rowid="8032943132625"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57991288" order_type="LS" store_id="013" unique_orderid="1799258">
+<notes/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="1.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130472" description="F1ANTA 60X120 SX 70 B.CA" price="67.2" quantity="4.00" supplyer_ref="" unique_rowid="8032943132632"/>
+<row buyer_ref="36130731" description="*F1ANTA 80X120 DX 70 B.CA" price="82.08" quantity="1.00" supplyer_ref="" unique_rowid="8032943132649"/>
+<row buyer_ref="36130283" description="PTA F2A 120X220 70 GOLDEN OAK" price="249.6" quantity="2.00" supplyer_ref="" unique_rowid="8032943133219"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57991579" order_type="LS" store_id="019" unique_orderid="1799248">
+<notes/>
+<row buyer_ref="36130353" description="*F1ANTA 80X50 V 70 B.CA" price="44.68" quantity="1.00" supplyer_ref="" unique_rowid="8032943132571"/>
+<row buyer_ref="36130381" description="*F1ANTA 80X60 V 70 B.CA" price="48.72" quantity="1.00" supplyer_ref="" unique_rowid="8032943132588"/>
+<row buyer_ref="36146852" description="*F1ANTA 90X60 V 70 B.CA" price="52.8" quantity="2.00" supplyer_ref="" unique_rowid="8032943132595"/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="1.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="3.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130346" description="*PTA F2A 120X220 70 B.CA" price="208.8" quantity="1.00" supplyer_ref="" unique_rowid="8032943132762"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57992961" order_type="LS" store_id="051" unique_orderid="1799250">
+<notes/>
+<row buyer_ref="36130381" description="*F1ANTA 80X60 V 70 B.CA" price="48.72" quantity="1.00" supplyer_ref="" unique_rowid="8032943132588"/>
+<row buyer_ref="36130731" description="*F1ANTA 80X120 DX 70 B.CA" price="82.08" quantity="3.00" supplyer_ref="" unique_rowid="8032943132649"/>
+<row buyer_ref="36130290" description="*F1ANTA 80X120 SX 70 B.CA" price="82.08" quantity="6.00" supplyer_ref="" unique_rowid="8032943132656"/>
+<row buyer_ref="36130563" description="F1ANTA 80X140 DX 70 B.CA" price="88.32" quantity="2.00" supplyer_ref="" unique_rowid="8032943132663"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="4.00" supplyer_ref="" unique_rowid="8032943132687"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57990955" order_type="LS" store_id="006" unique_orderid="1799239">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="2.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130745" description="*F1ANTA 60X60 V 70 B.CA" price="39.12" quantity="3.00" supplyer_ref="" unique_rowid="8032943132564"/>
+<row buyer_ref="36130822" description="F1ANTA 60X100 SX 70 B.CA" price="58.68" quantity="1.00" supplyer_ref="" unique_rowid="8032943132618"/>
+<row buyer_ref="36130416" description="F1ANTA 60X120 DX 70 B.CA" price="67.2" quantity="1.00" supplyer_ref="" unique_rowid="8032943132625"/>
+<row buyer_ref="36130731" description="*F1ANTA 80X120 DX 70 B.CA" price="82.08" quantity="7.00" supplyer_ref="" unique_rowid="8032943132649"/>
+<row buyer_ref="36130290" description="*F1ANTA 80X120 SX 70 B.CA" price="82.08" quantity="6.00" supplyer_ref="" unique_rowid="8032943132656"/>
+<row buyer_ref="36130682" description="F1ANTA 80X140 SX 70 B.CA" price="88.32" quantity="3.00" supplyer_ref="" unique_rowid="8032943132670"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="2.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130703" description="PTA F1A 80X220 SX 70 B.CA" price="132.0" quantity="2.00" supplyer_ref="" unique_rowid="8032943132748"/>
+<row buyer_ref="36130710" description="*PTA F2A 100X220 70 B.CA" price="188.4" quantity="2.00" supplyer_ref="" unique_rowid="8032943132755"/>
+<row buyer_ref="36130346" description="*PTA F2A 120X220 70 B.CA" price="208.8" quantity="2.00" supplyer_ref="" unique_rowid="8032943132762"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57993017" order_type="LS" store_id="052" unique_orderid="1799241">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="3.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="3.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130290" description="*F1ANTA 80X120 SX 70 B.CA" price="82.08" quantity="4.00" supplyer_ref="" unique_rowid="8032943132656"/>
+<row buyer_ref="36130563" description="F1ANTA 80X140 DX 70 B.CA" price="88.32" quantity="1.00" supplyer_ref="" unique_rowid="8032943132663"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57992598" order_type="LS" store_id="041" unique_orderid="1799245">
+<notes/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="2.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130416" description="F1ANTA 60X120 DX 70 B.CA" price="67.2" quantity="2.00" supplyer_ref="" unique_rowid="8032943132625"/>
+<row buyer_ref="36130472" description="F1ANTA 60X120 SX 70 B.CA" price="67.2" quantity="2.00" supplyer_ref="" unique_rowid="8032943132632"/>
+<row buyer_ref="36130395" description="PTA F1A 80X220 DX 70 B.CA" price="132.0" quantity="1.00" supplyer_ref="" unique_rowid="8032943132731"/>
+<row buyer_ref="36130703" description="PTA F1A 80X220 SX 70 B.CA" price="132.0" quantity="1.00" supplyer_ref="" unique_rowid="8032943132748"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57990740" order_type="LS" store_id="002" unique_orderid="1799251">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="10.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130745" description="*F1ANTA 60X60 V 70 B.CA" price="39.12" quantity="6.00" supplyer_ref="" unique_rowid="8032943132564"/>
+<row buyer_ref="36130353" description="*F1ANTA 80X50 V 70 B.CA" price="44.68" quantity="10.00" supplyer_ref="" unique_rowid="8032943132571"/>
+<row buyer_ref="36130381" description="*F1ANTA 80X60 V 70 B.CA" price="48.72" quantity="6.00" supplyer_ref="" unique_rowid="8032943132588"/>
+<row buyer_ref="36130822" description="F1ANTA 60X100 SX 70 B.CA" price="58.68" quantity="3.00" supplyer_ref="" unique_rowid="8032943132618"/>
+<row buyer_ref="36130416" description="F1ANTA 60X120 DX 70 B.CA" price="67.2" quantity="3.00" supplyer_ref="" unique_rowid="8032943132625"/>
+<row buyer_ref="36130290" description="*F1ANTA 80X120 SX 70 B.CA" price="82.08" quantity="3.00" supplyer_ref="" unique_rowid="8032943132656"/>
+<row buyer_ref="36130682" description="F1ANTA 80X140 SX 70 B.CA" price="88.32" quantity="6.00" supplyer_ref="" unique_rowid="8032943132670"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="2.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130843" description="*F2ANTE 100X140 70 B.CA" price="128.4" quantity="2.00" supplyer_ref="" unique_rowid="8032943132717"/>
+<row buyer_ref="36130703" description="PTA F1A 80X220 SX 70 B.CA" price="132.0" quantity="2.00" supplyer_ref="" unique_rowid="8032943132748"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57991918" order_type="LS" store_id="027" unique_orderid="1799240">
+<notes/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="2.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130822" description="F1ANTA 60X100 SX 70 B.CA" price="58.68" quantity="2.00" supplyer_ref="" unique_rowid="8032943132618"/>
+<row buyer_ref="36130710" description="*PTA F2A 100X220 70 B.CA" price="188.4" quantity="8.00" supplyer_ref="" unique_rowid="8032943132755"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57991613" order_type="LS" store_id="021" unique_orderid="1799242">
+<notes/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="1.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="10.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130570" description="F2ANTE 140X120 70 B.CA" price="140.4" quantity="2.00" supplyer_ref="" unique_rowid="8032943132700"/>
+<row buyer_ref="36130451" description="*F2ANTE 120X140 70 B.CA" price="144.0" quantity="1.00" supplyer_ref="" unique_rowid="8032943132724"/>
+<row buyer_ref="36130710" description="*PTA F2A 100X220 70 B.CA" price="188.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132755"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57990676" order_type="LS" store_id="001" unique_orderid="1799249">
+<notes/>
+<row buyer_ref="36130353" description="*F1ANTA 80X50 V 70 B.CA" price="44.68" quantity="6.00" supplyer_ref="" unique_rowid="8032943132571"/>
+<row buyer_ref="36146852" description="*F1ANTA 90X60 V 70 B.CA" price="52.8" quantity="4.00" supplyer_ref="" unique_rowid="8032943132595"/>
+<row buyer_ref="36130843" description="*F2ANTE 100X140 70 B.CA" price="128.4" quantity="4.00" supplyer_ref="" unique_rowid="8032943132717"/>
+<row buyer_ref="36130514" description="F1ANTA 80X120 DX 70 GOLDEN OAK" price="90.96" quantity="1.00" supplyer_ref="" unique_rowid="8032943132977"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57991522" order_type="LS" store_id="018" unique_orderid="1799243">
+<notes/>
+<row buyer_ref="36130472" description="F1ANTA 60X120 SX 70 B.CA" price="67.2" quantity="2.00" supplyer_ref="" unique_rowid="8032943132632"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="1.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130843" description="*F2ANTE 100X140 70 B.CA" price="128.4" quantity="2.00" supplyer_ref="" unique_rowid="8032943132717"/>
+<row buyer_ref="36130710" description="*PTA F2A 100X220 70 B.CA" price="188.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132755"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57992751" order_type="LS" store_id="047" unique_orderid="1799246">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="5.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130745" description="*F1ANTA 60X60 V 70 B.CA" price="39.12" quantity="1.00" supplyer_ref="" unique_rowid="8032943132564"/>
+<row buyer_ref="36130381" description="*F1ANTA 80X60 V 70 B.CA" price="48.72" quantity="1.00" supplyer_ref="" unique_rowid="8032943132588"/>
+<row buyer_ref="36130472" description="F1ANTA 60X120 SX 70 B.CA" price="67.2" quantity="1.00" supplyer_ref="" unique_rowid="8032943132632"/>
+<row buyer_ref="36130682" description="F1ANTA 80X140 SX 70 B.CA" price="88.32" quantity="1.00" supplyer_ref="" unique_rowid="8032943132670"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="4.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130843" description="*F2ANTE 100X140 70 B.CA" price="128.4" quantity="6.00" supplyer_ref="" unique_rowid="8032943132717"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57992134" order_type="LS" store_id="031" unique_orderid="1799255">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="6.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130822" description="F1ANTA 60X100 SX 70 B.CA" price="58.68" quantity="1.00" supplyer_ref="" unique_rowid="8032943132618"/>
+<row buyer_ref="36130416" description="F1ANTA 60X120 DX 70 B.CA" price="67.2" quantity="1.00" supplyer_ref="" unique_rowid="8032943132625"/>
+<row buyer_ref="36130472" description="F1ANTA 60X120 SX 70 B.CA" price="67.2" quantity="1.00" supplyer_ref="" unique_rowid="8032943132632"/>
+<row buyer_ref="36130731" description="*F1ANTA 80X120 DX 70 B.CA" price="82.08" quantity="2.00" supplyer_ref="" unique_rowid="8032943132649"/>
+<row buyer_ref="36130290" description="*F1ANTA 80X120 SX 70 B.CA" price="82.08" quantity="2.00" supplyer_ref="" unique_rowid="8032943132656"/>
+<row buyer_ref="36130563" description="F1ANTA 80X140 DX 70 B.CA" price="88.32" quantity="2.00" supplyer_ref="" unique_rowid="8032943132663"/>
+<row buyer_ref="36130843" description="*F2ANTE 100X140 70 B.CA" price="128.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132717"/>
+<row buyer_ref="36130395" description="PTA F1A 80X220 DX 70 B.CA" price="132.0" quantity="1.00" supplyer_ref="" unique_rowid="8032943132731"/>
+<row buyer_ref="36130710" description="*PTA F2A 100X220 70 B.CA" price="188.4" quantity="2.00" supplyer_ref="" unique_rowid="8032943132755"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57991978" order_type="LS" store_id="028" unique_orderid="1799247">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="6.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130353" description="*F1ANTA 80X50 V 70 B.CA" price="44.68" quantity="4.00" supplyer_ref="" unique_rowid="8032943132571"/>
+<row buyer_ref="36130381" description="*F1ANTA 80X60 V 70 B.CA" price="48.72" quantity="10.00" supplyer_ref="" unique_rowid="8032943132588"/>
+<row buyer_ref="36146852" description="*F1ANTA 90X60 V 70 B.CA" price="52.8" quantity="3.00" supplyer_ref="" unique_rowid="8032943132595"/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="2.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130290" description="*F1ANTA 80X120 SX 70 B.CA" price="82.08" quantity="2.00" supplyer_ref="" unique_rowid="8032943132656"/>
+<row buyer_ref="36130682" description="F1ANTA 80X140 SX 70 B.CA" price="88.32" quantity="1.00" supplyer_ref="" unique_rowid="8032943132670"/>
+<row buyer_ref="36130346" description="*PTA F2A 120X220 70 B.CA" price="208.8" quantity="1.00" supplyer_ref="" unique_rowid="8032943132762"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57991712" order_type="LS" store_id="023" unique_orderid="1799257">
+<notes/>
+<row buyer_ref="36130416" description="F1ANTA 60X120 DX 70 B.CA" price="67.2" quantity="1.00" supplyer_ref="" unique_rowid="8032943132625"/>
+<row buyer_ref="36130563" description="F1ANTA 80X140 DX 70 B.CA" price="88.32" quantity="2.00" supplyer_ref="" unique_rowid="8032943132663"/>
+<row buyer_ref="36130752" description="*F2ANTE 120X120 70 B.CA" price="128.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132694"/>
+<row buyer_ref="36130423" description="F1ANTA 50X50 V 70 NOCE" price="37.08" quantity="2.00" supplyer_ref="" unique_rowid="8032943132786"/>
+<row buyer_ref="36130325" description="F1ANTA 60X60 V 70 GOLDEN OAK" price="47.4" quantity="2.00" supplyer_ref="" unique_rowid="8032943132793"/>
+<row buyer_ref="36130276" description="F1ANTA 80X60 V 70 NOCE" price="57.12" quantity="2.00" supplyer_ref="" unique_rowid="8032943132847"/>
+<row buyer_ref="36146880" description="F1ANTA 90X60 V 70 NOCE" price="62.4" quantity="3.00" supplyer_ref="" unique_rowid="8032943132861"/>
+<row buyer_ref="36130493" description="F1ANTA 80X140 SX 70 GOLDEN OAK" price="99.72" quantity="1.00" supplyer_ref="" unique_rowid="8032943133028"/>
+<row buyer_ref="36130241" description="F2ANTE 140X120 70 GOLDEN OAK" price="164.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943133134"/>
+<row buyer_ref="36130850" description="PTA F1A 80X220 SX 70 GOLDEN OAK" price="154.8" quantity="1.00" supplyer_ref="" unique_rowid="8032943133165"/>
+<row buyer_ref="36130801" description="PTA F2A 100X220 70 GOLDEN OAK" price="228.0" quantity="1.00" supplyer_ref="" unique_rowid="8032943133196"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57990896" order_type="LS" store_id="005" unique_orderid="1799256">
+<notes/>
+<row buyer_ref="36146852" description="*F1ANTA 90X60 V 70 B.CA" price="52.8" quantity="6.00" supplyer_ref="" unique_rowid="8032943132595"/>
+<row buyer_ref="36130822" description="F1ANTA 60X100 SX 70 B.CA" price="58.68" quantity="5.00" supplyer_ref="" unique_rowid="8032943132618"/>
+<row buyer_ref="36130731" description="*F1ANTA 80X120 DX 70 B.CA" price="82.08" quantity="1.00" supplyer_ref="" unique_rowid="8032943132649"/>
+<row buyer_ref="36130843" description="*F2ANTE 100X140 70 B.CA" price="128.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132717"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57993077" order_type="LS" store_id="054" unique_orderid="1799252">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="3.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130745" description="*F1ANTA 60X60 V 70 B.CA" price="39.12" quantity="4.00" supplyer_ref="" unique_rowid="8032943132564"/>
+<row buyer_ref="36130353" description="*F1ANTA 80X50 V 70 B.CA" price="44.68" quantity="4.00" supplyer_ref="" unique_rowid="8032943132571"/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="1.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130416" description="F1ANTA 60X120 DX 70 B.CA" price="67.2" quantity="2.00" supplyer_ref="" unique_rowid="8032943132625"/>
+<row buyer_ref="36130472" description="F1ANTA 60X120 SX 70 B.CA" price="67.2" quantity="1.00" supplyer_ref="" unique_rowid="8032943132632"/>
+<row buyer_ref="36130290" description="*F1ANTA 80X120 SX 70 B.CA" price="82.08" quantity="1.00" supplyer_ref="" unique_rowid="8032943132656"/>
+<row buyer_ref="36130563" description="F1ANTA 80X140 DX 70 B.CA" price="88.32" quantity="2.00" supplyer_ref="" unique_rowid="8032943132663"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="3.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130570" description="F2ANTE 140X120 70 B.CA" price="140.4" quantity="3.00" supplyer_ref="" unique_rowid="8032943132700"/>
+<row buyer_ref="36130843" description="*F2ANTE 100X140 70 B.CA" price="128.4" quantity="2.00" supplyer_ref="" unique_rowid="8032943132717"/>
+<row buyer_ref="36130451" description="*F2ANTE 120X140 70 B.CA" price="144.0" quantity="10.00" supplyer_ref="" unique_rowid="8032943132724"/>
+<row buyer_ref="36130395" description="PTA F1A 80X220 DX 70 B.CA" price="132.0" quantity="3.00" supplyer_ref="" unique_rowid="8032943132731"/>
+<row buyer_ref="36130703" description="PTA F1A 80X220 SX 70 B.CA" price="132.0" quantity="1.00" supplyer_ref="" unique_rowid="8032943132748"/>
+<row buyer_ref="36130710" description="*PTA F2A 100X220 70 B.CA" price="188.4" quantity="3.00" supplyer_ref="" unique_rowid="8032943132755"/>
+<row buyer_ref="36130346" description="*PTA F2A 120X220 70 B.CA" price="208.8" quantity="4.00" supplyer_ref="" unique_rowid="8032943132762"/>
+<row buyer_ref="36130626" description="F1ANTA 80X60 V 70 GOLDEN OAK" price="57.12" quantity="2.00" supplyer_ref="" unique_rowid="8032943132830"/>
+<row buyer_ref="36130836" description="F1ANTA 60X120 DX 70 GOLDEN OAK" price="79.92" quantity="1.00" supplyer_ref="" unique_rowid="8032943132915"/>
+<row buyer_ref="36130430" description="F2ANTA 100X120 70 NOCE" price="136.68" quantity="3.00" supplyer_ref="" unique_rowid="8032943133066"/>
+<row buyer_ref="36130374" description="F2ANTE 120X140 70 GOLDEN OAK" price="168.0" quantity="1.00" supplyer_ref="" unique_rowid="8032943133110"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57991384" order_type="LS" store_id="015" unique_orderid="1799259">
+<notes/>
+<row buyer_ref="36130353" description="*F1ANTA 80X50 V 70 B.CA" price="44.68" quantity="6.00" supplyer_ref="" unique_rowid="8032943132571"/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="1.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="9.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130570" description="F2ANTE 140X120 70 B.CA" price="140.4" quantity="2.00" supplyer_ref="" unique_rowid="8032943132700"/>
+<row buyer_ref="36130451" description="*F2ANTE 120X140 70 B.CA" price="144.0" quantity="4.00" supplyer_ref="" unique_rowid="8032943132724"/>
+<row buyer_ref="36130626" description="F1ANTA 80X60 V 70 GOLDEN OAK" price="57.12" quantity="3.00" supplyer_ref="" unique_rowid="8032943132830"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57992536" order_type="LS" store_id="040" unique_orderid="1799253">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="10.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130745" description="*F1ANTA 60X60 V 70 B.CA" price="39.12" quantity="10.00" supplyer_ref="" unique_rowid="8032943132564"/>
+<row buyer_ref="36130353" description="*F1ANTA 80X50 V 70 B.CA" price="44.68" quantity="10.00" supplyer_ref="" unique_rowid="8032943132571"/>
+<row buyer_ref="36146852" description="*F1ANTA 90X60 V 70 B.CA" price="52.8" quantity="4.00" supplyer_ref="" unique_rowid="8032943132595"/>
+<row buyer_ref="36130640" description="*F1ANTA 60X100 DX 70 B.CA" price="58.68" quantity="1.00" supplyer_ref="" unique_rowid="8032943132601"/>
+<row buyer_ref="36130822" description="F1ANTA 60X100 SX 70 B.CA" price="58.68" quantity="2.00" supplyer_ref="" unique_rowid="8032943132618"/>
+<row buyer_ref="36130416" description="F1ANTA 60X120 DX 70 B.CA" price="67.2" quantity="1.00" supplyer_ref="" unique_rowid="8032943132625"/>
+<row buyer_ref="36130563" description="F1ANTA 80X140 DX 70 B.CA" price="88.32" quantity="1.00" supplyer_ref="" unique_rowid="8032943132663"/>
+<row buyer_ref="36130682" description="F1ANTA 80X140 SX 70 B.CA" price="88.32" quantity="1.00" supplyer_ref="" unique_rowid="8032943132670"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="2.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130843" description="*F2ANTE 100X140 70 B.CA" price="128.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132717"/>
+<row buyer_ref="36130451" description="*F2ANTE 120X140 70 B.CA" price="144.0" quantity="2.00" supplyer_ref="" unique_rowid="8032943132724"/>
+<row buyer_ref="36130703" description="PTA F1A 80X220 SX 70 B.CA" price="132.0" quantity="2.00" supplyer_ref="" unique_rowid="8032943132748"/>
+<row buyer_ref="36130710" description="*PTA F2A 100X220 70 B.CA" price="188.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132755"/>
+<row buyer_ref="36130836" description="F1ANTA 60X120 DX 70 GOLDEN OAK" price="79.92" quantity="1.00" supplyer_ref="" unique_rowid="8032943132915"/>
+<row buyer_ref="36130360" description="F1ANTA 60X120 SX 70 GOLDEN OAK" price="79.92" quantity="2.00" supplyer_ref="" unique_rowid="8032943132922"/>
+<row buyer_ref="36130514" description="F1ANTA 80X120 DX 70 GOLDEN OAK" price="90.96" quantity="2.00" supplyer_ref="" unique_rowid="8032943132977"/>
+<row buyer_ref="36130444" description="F2ANTE 120X120 70 GOLDEN OAK" price="150.0" quantity="1.00" supplyer_ref="" unique_rowid="8032943133073"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57993138" order_type="LS" store_id="055" unique_orderid="1800847">
+<notes/>
+<row buyer_ref="36130661" description="*F1ANTA 50X50 V 70 B.CA" price="33.0" quantity="2.00" supplyer_ref="" unique_rowid="8032943132557"/>
+<row buyer_ref="36130745" description="*F1ANTA 60X60 V 70 B.CA" price="39.12" quantity="2.00" supplyer_ref="" unique_rowid="8032943132564"/>
+<row buyer_ref="36130416" description="F1ANTA 60X120 DX 70 B.CA" price="67.2" quantity="1.00" supplyer_ref="" unique_rowid="8032943132625"/>
+<row buyer_ref="36130472" description="F1ANTA 60X120 SX 70 B.CA" price="67.2" quantity="2.00" supplyer_ref="" unique_rowid="8032943132632"/>
+<row buyer_ref="36130731" description="*F1ANTA 80X120 DX 70 B.CA" price="82.08" quantity="1.00" supplyer_ref="" unique_rowid="8032943132649"/>
+<row buyer_ref="36130290" description="*F1ANTA 80X120 SX 70 B.CA" price="82.08" quantity="5.00" supplyer_ref="" unique_rowid="8032943132656"/>
+<row buyer_ref="36130584" description="F2ANTE 100X120 70 B.CA" price="115.2" quantity="7.00" supplyer_ref="" unique_rowid="8032943132687"/>
+<row buyer_ref="36130500" description="F1ANTA 80X50 V 70 NOCE" price="51.6" quantity="1.00" supplyer_ref="" unique_rowid="8032943132823"/>
+<row buyer_ref="36146866" description="F1ANTA 90X60 V 70 GOLDEN OAK" price="62.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132854"/>
+<row buyer_ref="36130773" description="F1ANTA 60X100 DX 70 NOCE" price="69.36" quantity="2.00" supplyer_ref="" unique_rowid="8032943132892"/>
+<row buyer_ref="36130304" description="F1ANTA 80X120 DX 70 NOCE" price="90.96" quantity="1.00" supplyer_ref="" unique_rowid="8032943132991"/>
+</order>
+<order brand_id="LM" commercial_id="204546" customer_ref="" delivery_date_from="20191209" delivery_date_to="20191209" delivery_store_id="436" department_id="02" issue_date="2019-11-20 00:00:00.0" legal_id="202839" number="57992071" order_type="LS" store_id="030" unique_orderid="1799254">
+<notes/>
+<row buyer_ref="36130822" description="F1ANTA 60X100 SX 70 B.CA" price="58.68" quantity="3.00" supplyer_ref="" unique_rowid="8032943132618"/>
+<row buyer_ref="36130843" description="*F2ANTE 100X140 70 B.CA" price="128.4" quantity="1.00" supplyer_ref="" unique_rowid="8032943132717"/>
+<row buyer_ref="36130346" description="*PTA F2A 120X220 70 B.CA" price="208.8" quantity="1.00" supplyer_ref="" unique_rowid="8032943132762"/>
+<row buyer_ref="36130556" description="F1ANTA 80X140 DX 70 GOLDEN OAK" price="99.72" quantity="4.00" supplyer_ref="" unique_rowid="8032943133011"/>
+</order>
+</orderlist>

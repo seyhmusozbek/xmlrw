@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GURMENPVC2019Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="FLOW_FISNORES">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FATIRSNO" Type="varchar" MaxLength="35" />
+    <Property Name="TIPI" Type="varchar" MaxLength="3" />
+  </EntityType>
+  <EntityType Name="FLOW_ONSIPDET">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="INS_ID" Type="varchar" MaxLength="50" />
+    <Property Name="STOK_KOD" Type="varchar" MaxLength="150" />
+    <Property Name="MIKTAR" Type="decimal" Precision="18" Scale="8" />
+    <Property Name="OBR" Type="int" />
+    <Property Name="FIYAT" Type="decimal" Precision="18" Scale="8" />
+    <Property Name="DOVIZTIP" Type="int" />
+    <Property Name="DEPO_KOD" Type="varchar" MaxLength="50" />
+    <Property Name="SIPNO" Type="varchar" MaxLength="50" />
+    <Property Name="ACIKLAMA" Type="varchar" MaxLength="150" />
+    <Property Name="SATISK" Type="decimal" Precision="18" Scale="8" />
+    <Property Name="TESLIM_MIKTAR" Type="decimal" Precision="18" Scale="8" />
+    <Property Name="AKTIF" Type="varchar" MaxLength="5" />
+    <Property Name="FISNO" Type="varchar" MaxLength="50" />
+    <Property Name="MAGAZA" Type="varchar" MaxLength="40" />
+    <Property Name="MARKA" Type="varchar" MaxLength="50" />
+    <Property Name="SATICI" Type="varchar" MaxLength="50" />
+    <Property Name="BFIYAT" Type="decimal" Precision="18" Scale="8" />
+    <Property Name="KALEMNOTU" Type="varchar" MaxLength="150" />
+    <Property Name="TURKCENOT" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="FLOW_ONSIPMAS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FISNO" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TARIH" Type="datetime" />
+    <Property Name="OZELKOD" Type="nchar" MaxLength="10" />
+    <Property Name="PLASIYER" Type="nchar" MaxLength="10" />
+    <Property Name="CARI" Type="varchar" MaxLength="50" />
+    <Property Name="KAYITYAPAN" Type="varchar" MaxLength="50" />
+    <Property Name="KAYITTARIHI" Type="datetime" />
+    <Property Name="INS_ID" Type="varchar" MaxLength="50" />
+    <Property Name="AKTIF" Type="varchar" MaxLength="1" />
+    <Property Name="TIPI" Type="varchar" MaxLength="50" />
+    <Property Name="EXPORTREFNO" Type="varchar" MaxLength="50" />
+    <Property Name="EXPORTTYPE" Type="varchar" MaxLength="50" />
+    <Property Name="GENISK" Type="decimal" Precision="18" Scale="8" />
+    <Property Name="REVIZEINSID" Type="varchar" MaxLength="50" />
+    <Property Name="KAYIT_DURUMU" Type="varchar" MaxLength="50" />
+    <Property Name="SIRKET" Type="varchar" MaxLength="25" />
+    <Property Name="TERMINTARIHI" Type="datetime" />
+    <Property Name="SEVKTIPI" Type="varchar" MaxLength="25" />
+    <Property Name="FABRIKACIKIS" Type="datetime" />
+    <Property Name="KACINCISIPARIS" Type="varchar" MaxLength="15" />
+    <Property Name="MUSTERIADI" Type="varchar" MaxLength="100" />
+    <Property Name="GURMENFISNO" Type="varchar" MaxLength="14" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TBLSTSABIT">
+    <Key>
+      <PropertyRef Name="STOK_KODU" />
+    </Key>
+    <Property Name="SUBE_KODU" Type="smallint" Nullable="false" />
+    <Property Name="ISLETME_KODU" Type="smallint" Nullable="false" />
+    <Property Name="STOK_KODU" Type="varchar" MaxLength="35" Nullable="false" />
+    <Property Name="URETICI_KODU" Type="varchar" MaxLength="35" />
+    <Property Name="STOK_ADI" Type="varchar" MaxLength="100" />
+    <Property Name="GRUP_KODU" Type="varchar" MaxLength="8" />
+    <Property Name="KOD_1" Type="varchar" MaxLength="8" />
+    <Property Name="KOD_2" Type="varchar" MaxLength="8" />
+    <Property Name="KOD_3" Type="varchar" MaxLength="8" />
+    <Property Name="KOD_4" Type="varchar" MaxLength="8" />
+    <Property Name="KOD_5" Type="varchar" MaxLength="8" />
+    <Property Name="SATICI_KODU" Type="varchar" MaxLength="15" />
+    <Property Name="OLCU_BR1" Type="varchar" MaxLength="2" />
+    <Property Name="OLCU_BR2" Type="varchar" MaxLength="2" />
+    <Property Name="PAY_1" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="PAYDA_1" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="OLCU_BR3" Type="varchar" MaxLength="2" />
+    <Property Name="PAY2" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="PAYDA2" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="FIAT_BIRIMI" Type="char" MaxLength="1" />
+    <Property Name="AZAMI_STOK" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="ASGARI_STOK" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="TEMIN_SURESI" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="KUL_MIK" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="RISK_SURESI" Type="smallint" />
+    <Property Name="ZAMAN_BIRIMI" Type="varchar" MaxLength="3" />
+    <Property Name="SATIS_FIAT1" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="SATIS_FIAT2" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="SATIS_FIAT3" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="SATIS_FIAT4" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="SAT_DOV_TIP" Type="tinyint" />
+    <Property Name="DOV_ALIS_FIAT" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="DOV_MAL_FIAT" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="DOV_SATIS_FIAT" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="MUH_DETAYKODU" Type="int" />
+    <Property Name="BIRIM_AGIRLIK" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="NAKLIYET_TUT" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="KDV_ORANI" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="ALIS_DOV_TIP" Type="tinyint" />
+    <Property Name="DEPO_KODU" Type="smallint" />
+    <Property Name="DOV_TUR" Type="tinyint" />
+    <Property Name="URET_OLCU_BR" Type="tinyint" />
+    <Property Name="BILESENMI" Type="char" MaxLength="1" />
+    <Property Name="MAMULMU" Type="char" MaxLength="1" />
+    <Property Name="FORMUL_TOPLAMI" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="UPDATE_KODU" Type="char" MaxLength="1" />
+    <Property Name="MAX_ISKONTO" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="ECZACI_KARI" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="MIKTAR" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="MAL_FAZLASI" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="KDV_TENZIL_ORAN" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="KILIT" Type="char" MaxLength="1" />
+    <Property Name="ONCEKI_KOD" Type="varchar" MaxLength="35" />
+    <Property Name="SONRAKI_KOD" Type="varchar" MaxLength="35" />
+    <Property Name="BARKOD1" Type="varchar" MaxLength="35" />
+    <Property Name="BARKOD2" Type="varchar" MaxLength="35" />
+    <Property Name="BARKOD3" Type="varchar" MaxLength="35" />
+    <Property Name="ALIS_KDV_KODU" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="ALIS_FIAT1" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="ALIS_FIAT2" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="ALIS_FIAT3" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="ALIS_FIAT4" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="LOT_SIZE" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="MIN_SIP_MIKTAR" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="SABIT_SIP_ARALIK" Type="smallint" />
+    <Property Name="SIP_POLITIKASI" Type="char" MaxLength="1" />
+    <Property Name="OZELLIK_KODU1" Type="tinyint" />
+    <Property Name="OZELLIK_KODU2" Type="tinyint" />
+    <Property Name="OZELLIK_KODU3" Type="tinyint" />
+    <Property Name="OZELLIK_KODU4" Type="tinyint" />
+    <Property Name="OZELLIK_KODU5" Type="tinyint" />
+    <Property Name="OPSIYON_KODU1" Type="tinyint" />
+    <Property Name="OPSIYON_KODU2" Type="tinyint" />
+    <Property Name="OPSIYON_KODU3" Type="tinyint" />
+    <Property Name="OPSIYON_KODU4" Type="tinyint" />
+    <Property Name="OPSIYON_KODU5" Type="tinyint" />
+    <Property Name="BILESEN_OP_KODU" Type="tinyint" />
+    <Property Name="SIP_VER_MAL" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="ELDE_BUL_MAL" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="YIL_TAH_KUL_MIK" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="EKON_SIP_MIKTAR" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="ESKI_RECETE" Type="char" MaxLength="1" />
+    <Property Name="OTOMATIK_URETIM" Type="char" MaxLength="1" />
+    <Property Name="ALFKOD" Type="char" MaxLength="1" />
+    <Property Name="SAFKOD" Type="char" MaxLength="1" />
+    <Property Name="KODTURU" Type="char" MaxLength="1" />
+    <Property Name="S_YEDEK1" Type="varchar" MaxLength="15" />
+    <Property Name="S_YEDEK2" Type="varchar" MaxLength="8" />
+    <Property Name="F_YEDEK3" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="F_YEDEK4" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="C_YEDEK5" Type="char" MaxLength="1" />
+    <Property Name="C_YEDEK6" Type="char" MaxLength="1" />
+    <Property Name="B_YEDEK7" Type="tinyint" />
+    <Property Name="I_YEDEK8" Type="smallint" />
+    <Property Name="L_YEDEK9" Type="int" />
+    <Property Name="D_YEDEK10" Type="datetime" />
+    <Property Name="GIRIS_SERI" Type="char" MaxLength="1" />
+    <Property Name="CIKIS_SERI" Type="char" MaxLength="1" />
+    <Property Name="SERI_BAK" Type="char" MaxLength="1" />
+    <Property Name="SERI_MIK" Type="char" MaxLength="1" />
+    <Property Name="SERI_GIR_OT" Type="char" MaxLength="1" />
+    <Property Name="SERI_CIK_OT" Type="char" MaxLength="1" />
+    <Property Name="SERI_BASLANGIC" Type="varchar" MaxLength="35" />
+    <Property Name="FIYATKODU" Type="varchar" MaxLength="8" />
+    <Property Name="FIYATSIRASI" Type="int" />
+    <Property Name="PLANLANACAK" Type="char" MaxLength="1" />
+    <Property Name="LOT_SIZECUSTOMER" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="MIN_SIP_MIKTARCUSTOMER" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="GUMRUKTARIFEKODU" Type="varchar" MaxLength="35" />
+    <Property Name="ABCKODU" Type="varchar" MaxLength="8" />
+    <Property Name="PERFORMANSKODU" Type="varchar" MaxLength="4" />
+    <Property Name="SATICISIPKILIT" Type="char" MaxLength="1" />
+    <Property Name="MUSTERISIPKILIT" Type="char" MaxLength="1" />
+    <Property Name="SATINALMAKILIT" Type="char" MaxLength="1" />
+    <Property Name="SATISKILIT" Type="char" MaxLength="1" />
+    <Property Name="EN" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="BOY" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="GENISLIK" Type="decimal" Precision="28" Scale="8" />
+    <Property Name="SIPLIMITVAR" Type="char" MaxLength="1" />
+    <Property Name="SONSTOKKODU" Type="varchar" MaxLength="35" />
+    <Property Name="ONAYTIPI" Type="char" MaxLength="1" />
+    <Property Name="ONAYNUM" Type="int" />
+    <Property Name="FIKTIF_MAM" Type="char" MaxLength="1" />
+    <Property Name="YAPILANDIR" Type="char" MaxLength="1" />
+    <Property Name="SBOMVARMI" Type="char" MaxLength="1" />
+    <Property Name="BAGLISTOKKOD" Type="varchar" MaxLength="35" />
+    <Property Name="YAPKOD" Type="varchar" MaxLength="15" />
+    <Property Name="ALISTALTEKKILIT" Type="char" MaxLength="1" />
+    <Property Name="SATISTALTEKKILIT" Type="char" MaxLength="1" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6035: The relationship 'FK_FLOW_ONSIPDET_FLOW_ONSIPMAS' has columns that are not part of the key of the table on the primary side of the relationship. The relationship was excluded.
+        <Association Name="FK_FLOW_ONSIPDET_FLOW_ONSIPMAS" />-->
+  <Association Name="TBLSTSABIT_FKEY2">
+    <End Role="TBLSTSABIT" Type="Self.TBLSTSABIT" Multiplicity="0..1" />
+    <End Role="TBLSTSABIT1" Type="Self.TBLSTSABIT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLSTSABIT">
+        <PropertyRef Name="STOK_KODU" />
+      </Principal>
+      <Dependent Role="TBLSTSABIT1">
+        <PropertyRef Name="BAGLISTOKKOD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GURMENPVC2019ModelStoreContainer">
+    <EntitySet Name="FLOW_FISNORES" EntityType="Self.FLOW_FISNORES" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FLOW_ONSIPDET" EntityType="Self.FLOW_ONSIPDET" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FLOW_ONSIPMAS" EntityType="Self.FLOW_ONSIPMAS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TBLSTSABIT" EntityType="Self.TBLSTSABIT" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="TBLSTSABIT_FKEY2" Association="Self.TBLSTSABIT_FKEY2">
+      <End Role="TBLSTSABIT" EntitySet="TBLSTSABIT" />
+      <End Role="TBLSTSABIT1" EntitySet="TBLSTSABIT" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
